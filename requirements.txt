@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+json
+time
+urllib.parse
+os
+python-dotenv
